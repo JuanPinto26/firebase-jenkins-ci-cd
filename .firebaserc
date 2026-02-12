@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "trails-testing-e149d",
+    "staging": "trails-staging-db528",
+    "production": "trails-production-67d1e"
+  },
+  "targets": {},
+  "etags": {}
+}
